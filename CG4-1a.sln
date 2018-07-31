@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG4-1a", "CG4-1a\CG4-1a.csproj", "{DAF60092-A0C3-49AB-92A0-C7CDE291218F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF60092-A0C3-49AB-92A0-C7CDE291218F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF60092-A0C3-49AB-92A0-C7CDE291218F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF60092-A0C3-49AB-92A0-C7CDE291218F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF60092-A0C3-49AB-92A0-C7CDE291218F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52563534-54C8-402A-9BDD-691DFFA96131}
+	EndGlobalSection
+EndGlobal
